@@ -1,0 +1,6 @@
+C:\Users\kanst\source\repos\Github\CustomerApplication\Customer.SQL\bin\Debug\Customer.SQL.dacpac
+C:\Users\kanst\source\repos\Github\CustomerApplication\Customer.SQL\bin\Debug\Customer.SQL.dll
+C:\Users\kanst\source\repos\Github\CustomerApplication\Customer.SQL\bin\Debug\Customer.SQL.pdb
+C:\Users\kanst\source\repos\Github\CustomerApplication\Customer.SQL\obj\Debug\Customer.SQL.sqlproj.AssemblyReference.cache
+C:\Users\kanst\source\repos\Github\CustomerApplication\Customer.SQL\obj\Debug\Customer.SQL.dll
+C:\Users\kanst\source\repos\Github\CustomerApplication\Customer.SQL\obj\Debug\Customer.SQL.pdb
